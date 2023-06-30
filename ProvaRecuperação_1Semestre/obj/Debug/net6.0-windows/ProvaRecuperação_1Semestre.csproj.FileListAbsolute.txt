@@ -1,0 +1,17 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\bin\Debug\net6.0-windows\ProvaRecuperação_1Semestre.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\bin\Debug\net6.0-windows\ProvaRecuperação_1Semestre.deps.json
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\bin\Debug\net6.0-windows\ProvaRecuperação_1Semestre.runtimeconfig.json
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\bin\Debug\net6.0-windows\ProvaRecuperação_1Semestre.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\bin\Debug\net6.0-windows\ProvaRecuperação_1Semestre.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.Form1.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.csproj.GenerateResource.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\refint\ProvaRecuperação_1Semestre.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ProvaRecuperação_1Semestre.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ProvaRecuperação_1Semestre\ProvaRecuperação_1Semestre\obj\Debug\net6.0-windows\ref\ProvaRecuperação_1Semestre.dll
